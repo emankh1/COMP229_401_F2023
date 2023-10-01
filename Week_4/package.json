@@ -1,0 +1,9 @@
+{
+  "name": "week_4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nodeman": "^1.1.2"
+  }
+}
