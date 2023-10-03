@@ -1,0 +1,61 @@
+body {
+    background-image: url("/images/background.jpg");
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Young Serif', serif;
+}
+
+
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    height: 150px;
+    color: black
+}
+
+
+
+.logo {
+    height: 50%;
+    max-width: 100%;
+}
+
+
+.profilePic {
+    width: 50%;
+    max-width: 150px;
+    display: block;
+}
+
+
+
+
+.foot {
+    bottom: 0;
+    background-color:antiquewhite;
+    color:black;
+}
+
+
+.project-main {
+    display: flex;
+}
+
+.nav-object {
+    padding: 2em;
+    width: 5%;
+    font-size: 30px;
+}
+
+
+.project1 img {
+    width: 250px;
+    display: flexbox;
+    height: 200px;
+}
