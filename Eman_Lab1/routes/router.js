@@ -1,7 +1,6 @@
 const path = require('path');
 const express = require('express');
 const router = express();
-
 const publicDirectoryPath = path.join(__dirname, '../public')
 router.use(express.static(publicDirectoryPath));
 
